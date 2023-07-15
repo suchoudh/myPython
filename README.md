@@ -1,7 +1,7 @@
 # myPython  Teaching in Gautam Nagar 
 
-- Class 1 
-- Class 2 
+- Class 1 First session iceBreaker : all possibilities available for learning on net websites etc discussed. 
+- Class 2 HDMI working, Github discussion and initial commits , PRs , removed older version installed Anaconda python. 
 - Class 3 
 - Class 4 
 
