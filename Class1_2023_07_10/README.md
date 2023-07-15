@@ -1,3 +1,5 @@
+Remarks :  First day Amit joined 30 min late. 
+
 # myPython
 Teaching 
 
