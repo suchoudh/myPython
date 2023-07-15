@@ -7,3 +7,5 @@ Available Options
 - https://hackr.io/blog/best-way-to-learn-python
 - https://www.datacamp.com/blog/python-2-vs-3-everything-you-need-to-know
 - Documentation https://docs.python.org/3/
+
+- [[https://github.com/suchoudh/myPython/blob/main/Day1/4.jpeg]]
