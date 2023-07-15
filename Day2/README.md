@@ -25,8 +25,14 @@ You code Not only for yourself but for everybody else and perhaps millions of ti
 
 Decisions made 
 --------------
-I will be curating the videos that they need to see and develop their undersatnding over time .
+I will be curating the videos that they need to see and develop their undersatnding over time. 
+my Choice is to use 
+1. Udemy Python course Automate the boring stuff with python
+2. Charles Severance lectures
+3. Code with Harry notes and Youtube
 
+If time permits we will try to include 
+a primer for various avenues that are available after this basic Python course. 
 
 Next Visit 
 ========== 	
