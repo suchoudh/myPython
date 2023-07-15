@@ -1,4 +1,4 @@
-Remarks :  First day Amit joined 30 min late. 
+Remarks :  First day teething troubles. amit joined late. we discussed the possibiliity of using TV and HDMI cable 
 
 # myPython
 Teaching 
