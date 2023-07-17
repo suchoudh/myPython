@@ -12,7 +12,7 @@ Activities done :
 5. LinkedIn account creation and sending connection requests 
 6. Women who code for Elisheba 
 7. Tried to look at the book once again but too outdated information and can not be used.  :( 
-
+codingclass.Jul 14, 2023 7-14 PM.jpg
 
 What is Open Source
 --------------------
