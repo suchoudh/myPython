@@ -1,5 +1,7 @@
-Remarks :  First day teething troubles. amit joined late. we discussed the possibiliity of using TV and HDMI cable 
-
+Remarks :  First day teething troubles. amit joined late
+We discussed 
+1. the possibiliity of using TV and HDMI cable 
+2. Various Python courses available on net and otherwise. 
 # myPython
 Teaching 
 
@@ -12,6 +14,17 @@ Available Options
 
 - [[https://github.com/suchoudh/myPython/blob/main/Day1/4.jpeg]g
 
+One 
+![schematic](./1.jpeg)
+
+Two 
+![schematic](./2.jpeg)
+
+Three 
+![schematic](./3.jpeg)
+
+Four 
 ![schematic](./4.jpeg)
+# ![schematic](./4.jpeg)
 
 
