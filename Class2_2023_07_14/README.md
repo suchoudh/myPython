@@ -36,6 +36,9 @@ If time permits we will try to include
 a primer for various avenues that are available after this basic Python course. 
 
 Next Visit 
+
+One 
+![schematic](./5.jpeg)
 ========== 	
 1. (Will need to revisit this later as well) 
 2. (Amit need to tell to join Bhopal coders community group)  
