@@ -16,8 +16,11 @@
 - Class 12
 
 Major Areas 
-1. Git and Github
-2. PR , Commit , Unix basic commands, Case sensitive nature, 
-3. Anaconda and Jupytr 
-4. 
+-------------
+1. Git
+2. PR , Commit , Unix basic commands, Case sensitive nature,
+3. GitHub 
+4. Anaconda
+5. Jupytr 
+6. 
 
