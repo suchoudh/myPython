@@ -37,7 +37,7 @@ a primer for various avenues that are available after this basic Python course.
 
 Next Visit 
 
-One 
+fifth 
 ![schematic](./5.jpg)
 ========== 	
 1. (Will need to revisit this later as well) 
