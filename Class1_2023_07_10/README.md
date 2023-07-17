@@ -1,7 +1,11 @@
 Remarks :  First day teething troubles. amit joined late
 We discussed 
 1. the possibiliity of using TV and HDMI cable 
-2. Various Python courses available on net and otherwise. 
+2. Various Python courses available on net and otherwise.
+3. 16personalities test
+4. Github accounts created and linked with project created in my github (this one )
+5. 
+   
 # myPython
 Teaching 
 
