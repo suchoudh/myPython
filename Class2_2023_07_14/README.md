@@ -5,28 +5,29 @@ Remarks :
 
 Activities done : 
 -----------------
-Removed 32 bit python from laptop and installed 64 bit 
-Create a non Admin Account 
-Installed Anaconda 
-Asked to view Jupyter overview in Anaconda account.
-LinkedIn account creation and sending connection requests 
-Women who code for Elisheba 
-Tried to look at the book once again but too outdated information and can not be used.  :( 
+1. Removed 32 bit python from laptop and installed 64 bit 
+2. Create a non Admin Account 
+3. Installed Anaconda 
+4. Asked to view Jupyter overview in Anaconda account.
+5. LinkedIn account creation and sending connection requests 
+6. Women who code for Elisheba 
+7. Tried to look at the book once again but too outdated information and can not be used.  :( 
 
 
 What is Open Source
--------------------- 
-Git made by Linus Torvald of Linux fame 
-Understanding and internalizing Git is key to understand Coding. 
-Version Control and collaborative working is possible. 
-Automation in Merge Checkin of Code 
-Pull Requests and how to add code make change in code and submit for review. 
-You code Not only for yourself but for everybody else and perhaps millions of time per second. 
+--------------------
+1. Git made by Linus Torvald of Linux fame 
+2. Understanding and internalizing Git is key to understand Coding. 
+3. Version Control and collaborative working is possible. 
+4. Automation in Merge Checkin of Code 
+5. Pull Requests and how to add code make change in code and submit for review. 
+6. You code Not only for yourself but for everybody else and perhaps millions of time per second. 
 
 Decisions made 
 --------------
 I will be curating the videos that they need to see and develop their undersatnding over time. 
 my Choice is to use 
+
 1. Udemy Python course Automate the boring stuff with python
 2. Charles Severance lectures
 3. Code with Harry notes and Youtube
@@ -36,8 +37,8 @@ a primer for various avenues that are available after this basic Python course.
 
 Next Visit 
 ========== 	
-(Will need to revisit this later as well) 
-(Ami t need to tell to join Bhopal coders community group)  
-Asked them to ask questions ( They have still not gone through the text of how to read smart questions ) Is there is shorter version 
-What do they do whole week... Digital well being ask them to check regularly. 
-Need a attendance register with Time enties for My entrance and exit. ( Can there be a program for this UTC, computer clocks sync issues )
+1. (Will need to revisit this later as well) 
+2. (Amit need to tell to join Bhopal coders community group)  
+3. Asked them to ask questions ( They have still not gone through the text of how to read smart questions ) Is there is shorter version 
+4. What do they do whole week... Digital well being ask them to check regularly. 
+5. Need a attendance register with Time enties for My entrance and exit. ( Can there be a program for this UTC, computer clocks sync issues )
