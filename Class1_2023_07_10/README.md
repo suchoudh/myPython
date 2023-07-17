@@ -12,6 +12,6 @@ Available Options
 
 - [[https://github.com/suchoudh/myPython/blob/main/Day1/4.jpeg]g
 
-![schematic](./4.jpg)
+![schematic](./4.jpeg)
 
 
