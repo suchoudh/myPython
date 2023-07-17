@@ -13,5 +13,11 @@
 - Class 9 
 - Class 10
 - Class 11 
-- Class 12 
+- Class 12
+
+Major Areas 
+1. Git and Github
+2. PR , Commit , Unix basic commands, Case sensitive nature, 
+3. Anaconda and Jupytr 
+4. 
 
