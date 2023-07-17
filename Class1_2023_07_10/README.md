@@ -10,4 +10,8 @@ Available Options
 - https://www.datacamp.com/blog/python-2-vs-3-everything-you-need-to-know
 - Documentation https://docs.python.org/3/
 
-- [[https://github.com/suchoudh/myPython/blob/main/Day1/4.jpeg]]
+- [[https://github.com/suchoudh/myPython/blob/main/Day1/4.jpeg]g
+
+![schematic](./4.jpg)
+
+
