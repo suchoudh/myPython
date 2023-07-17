@@ -41,4 +41,4 @@ Next Visit
 2. (Amit need to tell to join Bhopal coders community group)  
 3. Asked them to ask questions ( They have still not gone through the text of how to read smart questions ) Is there is shorter version 
 4. What do they do whole week... Digital well being ask them to check regularly. 
-5. Need a attendance register with Time enties for My entrance and exit. ( Can there be a program for this UTC, computer clocks sync issues )
+5. Need a 13 questions register  ( Can there be a program for this UTC, computer clocks sync issues )
