@@ -1,0 +1,62 @@
+**THIS IS ELISHEBA'S HOMEWORK:-**
+
+QUES.1 What is the difference between flash memory used in pendrive V/s solid state drive? 
+ANS.1  Even though both flash storage and SSDs use non-volatile memory, their storage capacities are on two different playing
+fields . For reference, SSD storage options start at 120GB and up to 100TB, while flash storage options start as small as 64MB
+and only store up to 1TB of data. 
+
+QUES.2 How much content is created on internet in 2023 everyday?  
+ANS.2  According to the latest estimates, 328.77 million terabytes of data are created each day ("created" includes data that is
+newly generated, captured, copied, or consumed). In zettabytes 0.33 zettabytes everyday.
+
+QUES.3 What other battery available apart from lithium ion batteries? 
+ANS.3  Some of the other batteries available apart from lithium ion batteries are Salt, Magnesium, Seawater, Glass batteries,
+Fuel cells, Liquid batteries.
+
+QUES.4 Write about Single user OS, Multiuser OS, Timesharing OS, Real time OS, Multi Processing OS, Disbributed OS.  
+ANS.4  Single User Operating System: A Single User Operating System is a type of operating system that allows a user (single
+user) to perform only one task at a time.The single-user operating system is developed to be used on a single system and to
+provide security to the user.
+
+Multi-user Operating System: Multi-user Operating System is a computer operating system (OS) that allows multiple users on
+different computers or terminals to access a single system with one OS on it. Examples of Multi-user Operating System are: Linux,
+Ubuntu, Unix, Mac OS X, Windows 1010 etc.
+
+Timesharing Operating System: The Timesharing Operating System is a type of operating system in which the user can perform more
+than one task and each task gets the same amount of time to execute. It is also called a Multitasking Operating System.
+
+Real time Operating System: A Real-time operating system (RTOS) is an OS that guarantees real-time applications a certain
+capability within a specified deadline. RTOSes are designed for critical systems and for devices like microcontrollers that are
+timing-specific. RTOS processing time requirements are measured in milliseconds.
+
+Multi Processing Operating System: Multiprocessor operating systems are used in operating systems to boost the performance of
+multiple CPUs within a single computer system. Multiple CPUs are linked together so that a job can be divided and executed more
+quickly.
+
+Distributed Operating System: A Distributed Operating System is system software over a collection of independent software,
+networked, communicating, and physically separate computational nodes. They handle jobs which are serviced by multiple CPUs. Each
+individual node holds a specific software subset of the global aggregate operating system.
+
+QUES.5 Find out business softwares available is eduction sector and healthcare?
+ANS.5  The best education software in india are:-
+1. ProProfs
+2. Schoology
+3. Google Classroom
+4. TalentLMS
+5. Litmos
+6. Student information software
+7. wisenet
+Some of the business softwares available in healthcare are:-
+1. Electronic Health Records Software
+2. Telemedicine software
+3. Hospital Management Software
+4. Medical Diagnosis Software
+5. Personal Health Record Software
+
+QUES.6 Differentiate between a compiler and interpreter.
+ANS.6  A Compiler takes a program as a whole while an Interpreter takes single lines of a code. The Compilers generate
+intermediate machine codes, whereas the Interpreters never generate any intermediate machine codes.
+
+QUES.7 What are software libraries? How are they useful to programmers?
+ANS.7  A software library is a suite of data and programming code that is used to develop software programs and applications.
+Software libraries are used to provide pre-written, reusable code that developers can use in their  applications or projects.

@@ -16,7 +16,7 @@ Activities done :
 
 What is Open Source
 --------------------
-1. Git made by Linus Torvald of Linux fame 
+1. Git made by Linus Torvald of Linux fame codingclass.Jul 14, 2023 7-14 PM.jpg
 2. Understanding and internalizing Git is key to understand Coding. 
 3. Version Control and collaborative working is possible. 
 4. Automation in Merge Checkin of Code 
@@ -36,6 +36,9 @@ If time permits we will try to include
 a primer for various avenues that are available after this basic Python course. 
 
 Next Visit 
+
+fifth 
+![schematic](./5.jpg)
 ========== 	
 1. (Will need to revisit this later as well) 
 2. (Amit need to tell to join Bhopal coders community group)  
