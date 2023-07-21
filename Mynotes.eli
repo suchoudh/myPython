@@ -1,0 +1,19 @@
+MY NOTES
+My python programming learning tour:-
+
+Python programming language was developed by 'Guido Van Rossum' in early 1990s, its name is taken from a famous circus "monty python flying circus".
+
+One of the software i know is Python IDE (Integrated Development Environment)
+It is a software where a programmer can develop python program. 
+There are various IDE available for example:- IDLE (Integrated Development Learning Environment), sublime, atom, pycharm, canopy, tonney, etc.
+
+Python is a case-sensitive language. All the commands are written in small letters. It differentiate between capital letter and small letter of same character.
+for example= Computer and computer are considered as two different words. Capital letters are always treated smaller then lower letters.
+for example= 'Z' is smaller then 'a'.
+Also python is an open source and high-level programming language.
+
+Python data types:-Int, Float, Complex, bool, none.
+
+Python sequence:- String, Tuple, List, Dictionary and Set.
+
+Python control statement:- if, if else, while and for.
