@@ -5,9 +5,9 @@
 - Class 3 char vars strings number loops datatype  casting oops basics  What are your questions ? 
 - Class 4 Practice session with Jupyter + and some philosophical disscussion about Gender ineqality  + Look at the book. 
 
-- Class 5 loops 
-- Class 6 
-- Class 7 pro: dailyBoD EoD and Dev and YN question 
+- Class 5 Loops if else Do while for etc  practice from book. Code with harry followup the session. 
+- Class 6 Basics of OOPS in Python Class Method 
+- Class 7 Pro: dailyBoD EoD and Dev and YN question 
 - Class 8 
 
 - Class 9 
